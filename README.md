@@ -1,1 +1,1 @@
-This is a Rock, paper, scissor project under the curriculum of The Odin Project.
+This is a Rock, paper, scissors project under the curriculum of The Odin Project.
